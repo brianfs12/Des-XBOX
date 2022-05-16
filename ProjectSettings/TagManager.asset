@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floor
+  - Enemy
+  - PlayerProjectile
+  - atravesar
+  - cabeza_player
+  - Item
+  - EnemyAttack
+  - NPC
+  - EnemyArea
+  - Boss
+  - Room
+  - slope
+  - OneWay
+  - BehindOneWay
+  - Transition
+  - SavePoint
+  - DialogueTrigger
+  - Boss2
+  - Interact
+  - PossessionPoint
+  - ItemVida
+  - Water
+  - Boss3
+  - HomingSpawn
+  - Boss1PossessionPoint
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - floor
+  - EnemyHaunter
+  - atravezable
+  - Enemies
+  - PlayerNoDamage
+  - Room
+  - PlayerCrouch
+  - PlayerFeet
+  - OneWay
+  - BehindOneWay
+  - NoCollisionWithPlayer
+  - aura
+  - Boss3
+  - HomingSpawn
+  - Cortinas
+  - PlayerProjectile
+  - OnlyPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2331915719
+    locked: 0
+  - name: BG Deco
+    uniqueID: 1183609511
+    locked: 0
+  - name: BelowPlayer
+    uniqueID: 2058142709
+    locked: 0
+  - name: FlowersLight
+    uniqueID: 1185870977
+    locked: 0
+  - name: FramingNoLight
+    uniqueID: 2972620503
+    locked: 0
+  - name: FloorsAndCeiling
+    uniqueID: 2025506199
+    locked: 0
+  - name: AbovePlayerNoLight
+    uniqueID: 3057018537
+    locked: 0
+  - name: AbovePlayer
+    uniqueID: 1756946719
+    locked: 0

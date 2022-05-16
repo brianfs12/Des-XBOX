@@ -1,0 +1,2 @@
+Los Frames 10 y 11 deben durar 200ms
+Todo lo demas 100ms

@@ -1,0 +1,13 @@
+Numero de Frame ----- Duracion antes del siguiente
+Frame 0 - 300ms
+Frame 1 - 80ms
+Frame 0 - 600ms
+Frame 1 - 80ms
+Frame 0 - 200 ms
+Frame 1 - 80ms
+frame 0 - 800ms
+Frame 1 - 100ms
+Todo lo que sobra en orden - 100ms cada una
+
+total deberia dura 4.82s la animacion
+

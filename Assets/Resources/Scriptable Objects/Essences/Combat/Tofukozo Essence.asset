@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0e326f4ba9c189418dca69a555078d3, type: 3}
+  m_Name: Tofukozo Essence
+  m_EditorClassIdentifier: 
+  path: Scriptable Objects/Essences/Combat/Tofukozo Essence
+  name: Tofukozo
+  description: Throw a Tofu
+  mpCostPerUse: 20
+  hudIcon: {fileID: 0}
+  objectToInstantiate: {fileID: 3242459708833236981, guid: 87d4a3228f97d054daee0b8d5276559e, type: 3}
+  UIButton: {fileID: 7453877931777537905, guid: fbf441a8e060a124cb6bcc9266dfbf1f, type: 3}
+  speedX: 3
+  speedY: 5

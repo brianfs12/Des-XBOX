@@ -1,0 +1,2 @@
+Frame 21 debe durar 220ms
+Todo lo demas 150ms
